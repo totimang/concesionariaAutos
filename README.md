@@ -28,5 +28,5 @@
 
 ## El proyecto es de la academia <a href="https://todocodeacademy.com">TodoCode</a>
 
-<p>Ir al 👉<a href="https://www.youtube.com/watch?v=Ogx6Fov4I0g" target="new">Primera parte</a></p>
-<p>Ir al 👉<a href="https://www.youtube.com/watch?v=Z2agcVjbE0E" target="new">Segunda parte</a></p>
+<p>Ir a la 👉<a href="https://www.youtube.com/watch?v=Ogx6Fov4I0g" target="new">Primera parte</a></p>
+<p>Ir a la 👉<a href="https://www.youtube.com/watch?v=Z2agcVjbE0E" target="new">Segunda parte</a></p>
